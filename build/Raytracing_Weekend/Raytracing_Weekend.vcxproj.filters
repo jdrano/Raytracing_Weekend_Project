@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\jmtag\source\repos\Raytracing_Weekend\Raytracing_Weekend\Raytracing_Weekend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Users\jmtag\source\repos\Raytracing_Weekend\Raytracing_Weekend\Raytracing_Weekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jmtag\source\repos\Raytracing_Weekend\Raytracing_Weekend\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jmtag\source\repos\Raytracing_Weekend\Raytracing_Weekend\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\jmtag\source\repos\Raytracing_Weekend\Raytracing_Weekend\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B24BE751-A6E3-3028-9F10-EA8ED9CC74B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4690B8E1-572E-39D0-B043-61AA25E6694F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
